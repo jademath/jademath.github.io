@@ -22,13 +22,13 @@ repository               : "jademath/jademath.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Yuliang Wang"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
-  uri              : # URL
-  email            : "none@example.org" 
+  bio              : "inverse problems, machine learning"
+  location         : "Zhuhai"
+  employer         : "Beijing Normal University & UIC"
+  uri              : "https://fst.uic.edu.cn/faculty/faculty.htm#/yuliangwang/en"
+  email            : "yuliangwang@bnu.edu.cn" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
