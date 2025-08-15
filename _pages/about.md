@@ -7,6 +7,4 @@ redirect_from:
   - /about.html
 ---
 
-I am a Professor of mathematics in [Research Center of Mathematics](https://rcm.uic.edu.cn/) at Beijing Normal University, and in [Department of Mathematical Sciences](https://fst.uic.edu.cn/am_en/index.htm) at BNU-HKBU United International College. 
-
-This site is under construction.
+I am a Professor of mathematics in the International Frontier Interdisciplinary Research Institute at Wenzhou-Kean University. My research interests include inverse problems, computational mathematics and machine learning.
