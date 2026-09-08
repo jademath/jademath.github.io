@@ -153,6 +153,9 @@ analytics:
 
 # Reading Files
 include:
+  - _next
+  - _buildManifest.js
+  - _ssgManifest.js
   - .htaccess
   - _pages
   - files
