@@ -8,5 +8,3 @@ redirect_from:
 ---
 
 I am a Professor of mathematics in the International Frontier Interdisciplinary Research Institute at Wenzhou-Kean University. My research interests include inverse problems, computational mathematics and machine learning.
-
-{% include site-visits.html %}
