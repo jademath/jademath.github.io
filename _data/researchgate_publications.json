@@ -1,0 +1,516 @@
+{
+  "profile_url": "https://www.researchgate.net/profile/Yuliang-Wang-19/research",
+  "author": "Yuliang Wang",
+  "source_complete": true,
+  "profile_count": 28,
+  "checked_on": "2026-09-09",
+  "updated_on": "2026-09-09",
+  "publications": [
+    {
+      "id": "407435403",
+      "title": "A Deep Learning-Enhanced Fourier Method for the Multi-Frequency Inverse Source Problem with Sparse Far-Field Data",
+      "authors": [
+        "Hao Chen",
+        "Yan Chang",
+        "Yukun Guo",
+        "Yuliang Wang"
+      ],
+      "venue": "Communications in Computational Physics 40 (5), 1592–1610",
+      "year": 2026,
+      "kind": "Article",
+      "researchgate_url": "https://www.researchgate.net/publication/407435403_A_Deep_Learning-Enhanced_Fourier_Method_for_the_Multi-Frequency_Inverse_Source_Problem_with_Sparse_Far-Field_Data",
+      "article_url": "https://doi.org/10.4208/cicp.OA-2026-0002",
+      "sources": [
+        "https://api.crossref.org/works/10.4208%2Fcicp.OA-2026-0002",
+        "https://www.global-sci.com/cicp/issue/view/2252",
+        "https://www.researchgate.net/publication/407435403_A_Deep_Learning-Enhanced_Fourier_Method_for_the_Multi-Frequency_Inverse_Source_Problem_with_Sparse_Far-Field_Data"
+      ]
+    },
+    {
+      "id": "404652520",
+      "title": "Recovering the Grating Profile from Limited-Aperture Observation: Data Retrieval and Shape Reconstruction",
+      "authors": [
+        "Tian Niu",
+        "Yukun Guo",
+        "Jingzhi Li",
+        "Yuliang Wang",
+        "Yan Chang"
+      ],
+      "venue": "SIAM Journal on Imaging Sciences 19 (2), 1015–1036",
+      "year": 2026,
+      "kind": "Article",
+      "researchgate_url": "https://www.researchgate.net/publication/404652520_Recovering_the_Grating_Profile_from_Limited-Aperture_Observation_Data_Retrieval_and_Shape_Reconstruction",
+      "article_url": "https://doi.org/10.1137/25M1769132",
+      "sources": [
+        "https://api.crossref.org/works/10.1137%2F25M1769132",
+        "https://www.researchgate.net/publication/404652520_Recovering_the_Grating_Profile_from_Limited-Aperture_Observation_Data_Retrieval_and_Shape_Reconstruction"
+      ]
+    },
+    {
+      "id": "387193600",
+      "title": "Computational Imaging of Small-Amplitude Biperiodic Surfaces with Negative Index Material",
+      "authors": [
+        "Yuliang Wang"
+      ],
+      "venue": "CSIAM Transactions on Applied Mathematics 6 (1), 148–175",
+      "year": 2025,
+      "kind": "Article",
+      "researchgate_url": "https://www.researchgate.net/publication/387193600_Computational_Imaging_of_Small-Amplitude_Biperiodic_Surfaces_with_Negative_Index_Material",
+      "article_url": "https://doi.org/10.4208/csiam-am.SO-2024-0008",
+      "sources": [
+        "https://api.crossref.org/works/10.4208%2Fcsiam-am.SO-2024-0008",
+        "https://www.researchgate.net/publication/387193600_Computational_Imaging_of_Small-Amplitude_Biperiodic_Surfaces_with_Negative_Index_Material"
+      ]
+    },
+    {
+      "id": "383845063",
+      "title": "Increasing Stability of Determining Both the Potential and Source for the Biharmonic Wave Equation",
+      "authors": [
+        "Yuliang Wang",
+        "Yue Zhao"
+      ],
+      "venue": "East Asian Journal on Applied Mathematics 15 (2), 225–241",
+      "year": 2025,
+      "kind": "Article",
+      "researchgate_url": "https://www.researchgate.net/publication/383845063_Increasing_Stability_of_Determining_Both_the_Potential_and_Source_for_the_Biharmonic_Wave_Equation",
+      "article_url": "https://doi.org/10.4208/eajam.2023-205.171223",
+      "sources": [
+        "https://api.crossref.org/works/10.4208%2Feajam.2023-205.171223",
+        "https://global-sci.org/index.php/EAJAM/article/download/9685/19299/20529",
+        "https://www.researchgate.net/publication/383845063_Increasing_Stability_of_Determining_Both_the_Potential_and_Source_for_the_Biharmonic_Wave_Equation"
+      ]
+    },
+    {
+      "id": "391694522",
+      "title": "Time-Domain Direct Sampling Method for Inverse Electromagnetic Scattering with a Single Incident Source",
+      "authors": [
+        "Chen Geng",
+        "Minghui Song",
+        "Xianchao Wang",
+        "Yuliang Wang"
+      ],
+      "venue": "SIAM Journal on Imaging Sciences 18 (2), 1208–1234",
+      "year": 2025,
+      "kind": "Article",
+      "researchgate_url": "https://www.researchgate.net/publication/391694522_Time-Domain_Direct_Sampling_Method_for_Inverse_Electromagnetic_Scattering_with_a_Single_Incident_Source",
+      "article_url": "https://doi.org/10.1137/24M1701071",
+      "sources": [
+        "https://api.crossref.org/works/10.1137%2F24M1701071",
+        "https://www.researchgate.net/publication/391694522_Time-Domain_Direct_Sampling_Method_for_Inverse_Electromagnetic_Scattering_with_a_Single_Incident_Source"
+      ]
+    },
+    {
+      "id": "374693119",
+      "title": "A Data-Assisted Two-Stage Method for the Inverse Random Source Problem",
+      "authors": [
+        "Peijun Li",
+        "Ying Liang",
+        "Yuliang Wang"
+      ],
+      "venue": "SIAM Journal on Imaging Sciences 16 (4), 1929–1952",
+      "year": 2023,
+      "kind": "Article",
+      "researchgate_url": "https://www.researchgate.net/publication/374693119_A_Data-Assisted_Two-Stage_Method_for_the_Inverse_Random_Source_Problem",
+      "article_url": "https://doi.org/10.1137/23M1562561",
+      "sources": [
+        "https://www.researchgate.net/publication/374693119_A_Data-Assisted_Two-Stage_Method_for_the_Inverse_Random_Source_Problem"
+      ]
+    },
+    {
+      "id": "373039640",
+      "title": "Inverse scattering of periodic surfaces with a superlens",
+      "authors": [
+        "Peijun Li",
+        "Yuliang Wang"
+      ],
+      "venue": "Optics Express 31 (19), 30894–30910",
+      "year": 2023,
+      "kind": "Article",
+      "researchgate_url": "https://www.researchgate.net/publication/373039640_Inverse_scattering_of_periodic_surfaces_with_a_superlens",
+      "article_url": "https://doi.org/10.1364/OE.494812",
+      "sources": [
+        "https://api.crossref.org/works/10.1364%2FOE.494812",
+        "https://www.researchgate.net/publication/373039640_Inverse_scattering_of_periodic_surfaces_with_a_superlens"
+      ]
+    },
+    {
+      "id": "335229462",
+      "title": "Variance-Based Subgradient Extragradient Method for Stochastic Variational Inequality Problems",
+      "authors": [
+        "Zhen-Ping Yang",
+        "Jin Zhang",
+        "Yuliang Wang",
+        "Gui-Hua Lin"
+      ],
+      "venue": "Journal of Scientific Computing 89 (1), 4",
+      "year": 2021,
+      "kind": "Article",
+      "researchgate_url": "https://www.researchgate.net/publication/335229462_Variance-Based_Subgradient_Extragradient_Method_for_Stochastic_Variational_Inequality_Problems",
+      "article_url": "https://doi.org/10.1007/s10915-021-01603-y",
+      "sources": [
+        "https://api.crossref.org/works/10.1007%2Fs10915-021-01603-y",
+        "https://www.researchgate.net/publication/335229462_Variance-Based_Subgradient_Extragradient_Method_for_Stochastic_Variational_Inequality_Problems"
+      ]
+    },
+    {
+      "id": "344647659",
+      "title": "Localization and geometrization in plasmon resonances and geometric structures of Neumann-Poincaré eigenfunctions",
+      "authors": [
+        "Emilia Blåsten",
+        "Hongjie Li",
+        "Hongyu Liu",
+        "Yuliang Wang"
+      ],
+      "venue": "ESAIM: Mathematical Modelling and Numerical Analysis 54 (3), 957–976",
+      "year": 2020,
+      "kind": "Article",
+      "researchgate_url": "https://www.researchgate.net/publication/344647659_Localization_and_geometrization_in_plasmon_resonances_and_geometric_structures_of_Neumann-Poincare_eigenfunctions",
+      "article_url": "https://doi.org/10.1051/m2an/2019091",
+      "sources": [
+        "https://api.crossref.org/works/10.1051%2Fm2an%2F2019091",
+        "https://www.researchgate.net/publication/344647659_Localization_and_geometrization_in_plasmon_resonances_and_geometric_structures_of_Neumann-Poincare_eigenfunctions"
+      ]
+    },
+    {
+      "id": "341985582",
+      "title": "Variance-Based Modified Backward-Forward Algorithm with Line Search for Stochastic Variational Inequality Problems and Its Applications",
+      "authors": [
+        "Zhen-Ping Yang",
+        "Yuliang Wang",
+        "Gui-Hua Lin"
+      ],
+      "venue": "Asia-Pacific Journal of Operational Research 37 (3), 2050011",
+      "year": 2020,
+      "kind": "Article",
+      "researchgate_url": "https://www.researchgate.net/publication/341985582_Variance-Based_Modified_Backward-Forward_Algorithm_with_Line_Search_for_Stochastic_Variational_Inequality_Problems_and_Its_Applications",
+      "article_url": "https://doi.org/10.1142/S0217595920500116",
+      "sources": [
+        "https://api.crossref.org/works/10.1142%2FS0217595920500116",
+        "https://www.researchgate.net/publication/341985582_Variance-Based_Modified_Backward-Forward_Algorithm_with_Line_Search_for_Stochastic_Variational_Inequality_Problems_and_Its_Applications"
+      ]
+    },
+    {
+      "id": "333735327",
+      "title": "On a novel inverse scattering scheme using resonant modes with enhanced imaging resolution",
+      "authors": [
+        "Hongyu Liu",
+        "Xiaodong Liu",
+        "Xianchao Wang",
+        "Yuliang Wang"
+      ],
+      "venue": "Inverse Problems 35 (12), 125012",
+      "year": 2019,
+      "kind": "Article",
+      "researchgate_url": "https://www.researchgate.net/publication/333735327_On_a_novel_inverse_scattering_scheme_using_resonant_modes_with_enhanced_imaging_resolution",
+      "article_url": "https://doi.org/10.1088/1361-6420/ab2932",
+      "sources": [
+        "https://api.crossref.org/works/10.1088%2F1361-6420%2Fab2932",
+        "https://www.researchgate.net/publication/333735327_On_a_novel_inverse_scattering_scheme_using_resonant_modes_with_enhanced_imaging_resolution"
+      ]
+    },
+    {
+      "id": "313910426",
+      "title": "Asymptotic analysis of the narrow escape problem in dendritic spine shaped domain: three dimensions",
+      "authors": [
+        "Xiaofei Li",
+        "Hyundae Lee",
+        "Yuliang Wang"
+      ],
+      "venue": "Journal of Physics A: Mathematical and Theoretical 50 (32), 325203",
+      "year": 2017,
+      "kind": "Article",
+      "researchgate_url": "https://www.researchgate.net/publication/313910426_Asymptotic_Analysis_of_the_Narrow_Escape_Problem_in_Dendritic_Spine_Shaped_Domain_Three_Dimension",
+      "article_url": "https://doi.org/10.1088/1751-8121/aa7c06",
+      "sources": [
+        "https://api.crossref.org/works/10.1088%2F1751-8121%2Faa7c06",
+        "https://www.researchgate.net/publication/313910426_Asymptotic_Analysis_of_the_Narrow_Escape_Problem_in_Dendritic_Spine_Shaped_Domain_Three_Dimension"
+      ]
+    },
+    {
+      "id": "312550727",
+      "title": "Electromagnetic interior transmission eigenvalue problem for inhomogeneous media containing obstacles and its applications to near cloaking",
+      "authors": [
+        "Xiaofei Li",
+        "Jingzhi Li",
+        "Hongyu Liu",
+        "Yuliang Wang"
+      ],
+      "venue": "IMA Journal of Applied Mathematics 82 (5), 1013–1042",
+      "year": 2017,
+      "kind": "Article",
+      "researchgate_url": "https://www.researchgate.net/publication/312550727_Electromagnetic_interior_transmission_eigenvalue_problem_for_inhomogeneous_media_containing_obstacles_and_its_applications_to_near_cloaking",
+      "article_url": "https://doi.org/10.1093/imamat/hxx022",
+      "sources": [
+        "https://api.crossref.org/works/10.1093%2Fimamat%2Fhxx022",
+        "https://www.researchgate.net/publication/312550727_Electromagnetic_interior_transmission_eigenvalue_problem_for_inhomogeneous_media_containing_obstacles_and_its_applications_to_near_cloaking"
+      ]
+    },
+    {
+      "id": "301837179",
+      "title": "Nearly non-scattering electromagnetic wave set and its application",
+      "authors": [
+        "Hongyu Liu",
+        "Yuliang Wang",
+        "Shuhui Zhong"
+      ],
+      "venue": "Zeitschrift für angewandte Mathematik und Physik 68 (2), 35",
+      "year": 2017,
+      "kind": "Article",
+      "researchgate_url": "https://www.researchgate.net/publication/301837179_Nearly_non-scattering_electromagnetic_wave_set_and_its_application",
+      "article_url": "https://doi.org/10.1007/s00033-017-0780-1",
+      "sources": [
+        "https://api.crossref.org/works/10.1007%2Fs00033-017-0780-1",
+        "https://www.researchgate.net/publication/301837179_Nearly_non-scattering_electromagnetic_wave_set_and_its_application"
+      ]
+    },
+    {
+      "id": "319280833",
+      "title": "On vanishing and localizing of transmission eigenfunctions near singular points: a numerical study",
+      "authors": [
+        "Eemeli Blåsten",
+        "Xiaofei Li",
+        "Hongyu Liu",
+        "Yuliang Wang"
+      ],
+      "venue": "Inverse Problems 33 (10), 105001",
+      "year": 2017,
+      "kind": "Article",
+      "researchgate_url": "https://www.researchgate.net/publication/319280833_On_vanishing_and_localizing_of_transmission_eigenfunctions_near_singular_points_a_numerical_study",
+      "article_url": "https://doi.org/10.1088/1361-6420/aa8826",
+      "sources": [
+        "https://api.crossref.org/works/10.1088%2F1361-6420%2Faa8826",
+        "https://www.researchgate.net/publication/319280833_On_vanishing_and_localizing_of_transmission_eigenfunctions_near_singular_points_a_numerical_study"
+      ]
+    },
+    {
+      "id": "305779636",
+      "title": "Recovering an electromagnetic obstacle by a few phaseless backscattering measurements",
+      "authors": [
+        "Jingzhi Li",
+        "Hongyu Liu",
+        "Yuliang Wang"
+      ],
+      "venue": "Inverse Problems 33 (3), 035011",
+      "year": 2017,
+      "kind": "Article",
+      "researchgate_url": "https://www.researchgate.net/publication/305779636_Recovering_an_electromagnetic_obstacle_by_a_few_phaseless_backscattering_measurements",
+      "article_url": "https://doi.org/10.1088/1361-6420/aa5bf3",
+      "sources": [
+        "https://api.crossref.org/works/10.1088%2F1361-6420%2Faa5bf3",
+        "https://www.researchgate.net/publication/305779636_Recovering_an_electromagnetic_obstacle_by_a_few_phaseless_backscattering_measurements"
+      ]
+    },
+    {
+      "id": "283881058",
+      "title": "Convergence analysis in near-field imaging for elastic waves",
+      "authors": [
+        "Peijun Li",
+        "Yuliang Wang",
+        "Yue Zhao"
+      ],
+      "venue": "Applicable Analysis 95 (11), 2339–2360",
+      "year": 2016,
+      "kind": "Article",
+      "researchgate_url": "https://www.researchgate.net/publication/283881058_Convergence_analysis_in_near-field_imaging_for_elastic_waves",
+      "article_url": "https://doi.org/10.1080/00036811.2015.1089238",
+      "sources": [
+        "https://api.crossref.org/works/10.1080%2F00036811.2015.1089238",
+        "https://www.researchgate.net/publication/283881058_Convergence_analysis_in_near-field_imaging_for_elastic_waves"
+      ]
+    },
+    {
+      "id": "310820969",
+      "title": "Inverse obstacle scattering for elastic waves",
+      "authors": [
+        "Peijun Li",
+        "Yuliang Wang",
+        "Zewen Wang",
+        "Yue Zhao"
+      ],
+      "venue": "Inverse Problems 32 (11), 115018",
+      "year": 2016,
+      "kind": "Article",
+      "researchgate_url": "https://www.researchgate.net/publication/310820969_Inverse_obstacle_scattering_for_elastic_waves",
+      "article_url": "https://doi.org/10.1088/0266-5611/32/11/115018",
+      "sources": [
+        "https://api.crossref.org/works/10.1088%2F0266-5611%2F32%2F11%2F115018",
+        "https://www.researchgate.net/publication/310820969_Inverse_obstacle_scattering_for_elastic_waves"
+      ]
+    },
+    {
+      "id": "301874795",
+      "title": "Mathematical Design of a Novel Gesture-Based Instruction/Input Device Using Wave Detection",
+      "authors": [
+        "Hongyu Liu",
+        "Yuliang Wang",
+        "Can Yang"
+      ],
+      "venue": "SIAM Journal on Imaging Sciences 9 (2), 822–841",
+      "year": 2016,
+      "kind": "Article",
+      "researchgate_url": "https://www.researchgate.net/publication/301874795_Mathematical_Design_of_a_Novel_Gesture-Based_InstructionInput_Device_Using_Wave_Detection",
+      "article_url": "https://doi.org/10.1137/16m1063551",
+      "sources": [
+        "https://api.crossref.org/works/10.1137%2F16M1063551",
+        "https://www.researchgate.net/publication/301874795_Mathematical_Design_of_a_Novel_Gesture-Based_InstructionInput_Device_Using_Wave_Detection"
+      ]
+    },
+    {
+      "id": "305745960",
+      "title": "Near-field imaging of biperiodic surfaces for elastic waves",
+      "authors": [
+        "Peijun Li",
+        "Yuliang Wang",
+        "Yue Zhao"
+      ],
+      "venue": "Journal of Computational Physics 324, 1–23",
+      "year": 2016,
+      "kind": "Article",
+      "researchgate_url": "https://www.researchgate.net/publication/305745960_Near-field_imaging_of_biperiodic_surfaces_for_elastic_waves",
+      "article_url": "https://doi.org/10.1016/j.jcp.2016.07.030",
+      "sources": [
+        "https://api.crossref.org/works/10.1016%2Fj.jcp.2016.07.030",
+        "https://www.researchgate.net/publication/305745960_Near-field_imaging_of_biperiodic_surfaces_for_elastic_waves"
+      ]
+    },
+    {
+      "id": "301274171",
+      "title": "Near-field imaging with far-field data",
+      "authors": [
+        "Gang Bao",
+        "Peijun Li",
+        "Yuliang Wang"
+      ],
+      "venue": "Applied Mathematics Letters 60, 36–42",
+      "year": 2016,
+      "kind": "Article",
+      "researchgate_url": "https://www.researchgate.net/publication/301274171_Near-field_imaging_with_far-field_data",
+      "article_url": "https://doi.org/10.1016/j.aml.2016.03.023",
+      "sources": [
+        "https://api.crossref.org/works/10.1016%2Fj.aml.2016.03.023",
+        "https://www.researchgate.net/publication/301274171_Near-field_imaging_with_far-field_data"
+      ]
+    },
+    {
+      "id": "272201593",
+      "title": "Inverse elastic surface scattering with near-field data",
+      "authors": [
+        "Peijun Li",
+        "Yuliang Wang",
+        "Yue Zhao"
+      ],
+      "venue": "Inverse Problems 31 (3), 035009",
+      "year": 2015,
+      "kind": "Article",
+      "researchgate_url": "https://www.researchgate.net/publication/272201593_Inverse_elastic_surface_scattering_with_near-field_data_The_research_was_supported_in_part_by_the_NSF_grant_DMS-1151308",
+      "article_url": "https://doi.org/10.1088/0266-5611/31/3/035009",
+      "sources": [
+        "https://api.crossref.org/works/10.1088%2F0266-5611%2F31%2F3%2F035009",
+        "https://www.researchgate.net/publication/272201593_Inverse_elastic_surface_scattering_with_near-field_data_The_research_was_supported_in_part_by_the_NSF_grant_DMS-1151308"
+      ]
+    },
+    {
+      "id": "274569103",
+      "title": "Near-Field Imaging of Interior Cavities",
+      "authors": [
+        "Peijun Li",
+        "Yuliang Wang"
+      ],
+      "venue": "Communications in Computational Physics 17 (2), 542–563",
+      "year": 2015,
+      "kind": "Article",
+      "researchgate_url": "https://www.researchgate.net/publication/274569103_Near-Field_Imaging_of_Interior_Cavities",
+      "article_url": "https://doi.org/10.4208/cicp.010414.250914a",
+      "sources": [
+        "https://www.cambridge.org/core/journals/communications-in-computational-physics/article/abs/nearfield-imaging-of-interior-cavities/F099014270A941956A143DA41DBA5F54",
+        "https://www.researchgate.net/publication/274569103_Near-Field_Imaging_of_Interior_Cavities"
+      ]
+    },
+    {
+      "id": "273291988",
+      "title": "Near-field imaging of obstacles",
+      "authors": [
+        "Peijun Li",
+        "Yuliang Wang"
+      ],
+      "venue": "Inverse Problems and Imaging 9 (1), 189–210",
+      "year": 2015,
+      "kind": "Article",
+      "researchgate_url": "https://www.researchgate.net/publication/273291988_Near-field_imaging_of_obstacles",
+      "article_url": "https://doi.org/10.3934/ipi.2015.9.189",
+      "sources": [
+        "https://api.crossref.org/works/10.3934%2Fipi.2015.9.189",
+        "https://www.researchgate.net/publication/273291988_Near-field_imaging_of_obstacles"
+      ]
+    },
+    {
+      "id": "282199607",
+      "title": "Near-field imaging of small perturbed obstacles for elastic waves",
+      "authors": [
+        "Peijun Li",
+        "Yuliang Wang"
+      ],
+      "venue": "Inverse Problems 31 (8), 085010",
+      "year": 2015,
+      "kind": "Article",
+      "researchgate_url": "https://www.researchgate.net/publication/282199607_Near-field_imaging_of_small_perturbed_obstacles_for_elastic_waves",
+      "article_url": "https://doi.org/10.1088/0266-5611/31/8/085010",
+      "sources": [
+        "https://api.crossref.org/works/10.1088%2F0266-5611%2F31%2F8%2F085010",
+        "https://www.researchgate.net/publication/282199607_Near-field_imaging_of_small_perturbed_obstacles_for_elastic_waves"
+      ]
+    },
+    {
+      "id": "274096785",
+      "title": "Numerical solution of an inverse obstacle scattering problem with near-field data",
+      "authors": [
+        "Peijun Li",
+        "Yuliang Wang"
+      ],
+      "venue": "Journal of Computational Physics 290, 157–168",
+      "year": 2015,
+      "kind": "Article",
+      "researchgate_url": "https://www.researchgate.net/publication/274096785_Numerical_solution_of_an_inverse_obstacle_scattering_problem_with_near-field_data",
+      "article_url": "https://doi.org/10.1016/j.jcp.2015.03.004",
+      "sources": [
+        "https://api.crossref.org/works/10.1016%2Fj.jcp.2015.03.004",
+        "https://www.researchgate.net/publication/274096785_Numerical_solution_of_an_inverse_obstacle_scattering_problem_with_near-field_data"
+      ]
+    },
+    {
+      "id": "259253345",
+      "title": "Near-field imaging of perfectly conducting grating surfaces",
+      "authors": [
+        "Ting Cheng",
+        "Peijun Li",
+        "Yuliang Wang"
+      ],
+      "venue": "Journal of the Optical Society of America A 30 (12), 2473–2481",
+      "year": 2013,
+      "kind": "Article",
+      "researchgate_url": "https://www.researchgate.net/publication/259253345_Near-field_imaging_of_perfectly_conducting_grating_surfaces",
+      "article_url": "https://doi.org/10.1364/josaa.30.002473",
+      "sources": [
+        "https://api.crossref.org/works/10.1364%2FJOSAA.30.002473",
+        "https://www.researchgate.net/publication/259253345_Near-field_imaging_of_perfectly_conducting_grating_surfaces"
+      ]
+    },
+    {
+      "id": "236224619",
+      "title": "Optimal design of antireflection coatings with different metrics",
+      "authors": [
+        "Gang Bao",
+        "Yuliang Wang"
+      ],
+      "venue": "Journal of the Optical Society of America A 30 (4), 656–662",
+      "year": 2013,
+      "kind": "Article",
+      "researchgate_url": "https://www.researchgate.net/publication/236224619_Optimal_design_of_antireflection_coatings_with_different_metrics",
+      "article_url": "https://doi.org/10.1364/josaa.30.000656",
+      "sources": [
+        "https://api.crossref.org/works/10.1364%2FJOSAA.30.000656",
+        "https://www.researchgate.net/publication/236224619_Optimal_design_of_antireflection_coatings_with_different_metrics"
+      ]
+    }
+  ]
+}
