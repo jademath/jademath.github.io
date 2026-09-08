@@ -4,3 +4,51 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+
+{% assign scholar = site.data.scholar_publications %}
+<style>
+  .publications-page { color: #263b47; }
+  .publications-page .pub-intro { display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 1rem; padding: 1.15rem 1.3rem; margin: 0.5rem 0 1.9rem; border: 1px solid #dce7eb; border-radius: 12px; background: linear-gradient(120deg, #eff8fa, #fff); }
+  .publications-page .pub-total { display: block; font-size: 1rem; font-weight: 600; letter-spacing: -0.02em; }
+  .publications-page .pub-sync { display: block; margin-top: 0.3rem; font-size: 0.8rem; color: #607381; line-height: 1.5; }
+  .publications-page .pub-scholar { display: inline-flex; align-items: center; gap: 0.5rem; padding: 0.55rem 0.8rem; border: 1px solid #c3d9df; border-radius: 7px; color: #086d79; font-size: 0.85rem; font-weight: 600; text-decoration: none; white-space: nowrap; }
+  .publications-page .pub-scholar:hover { background: #e3f1f4; }
+  .publications-page .pub-year { display: grid; grid-template-columns: 64px minmax(0, 1fr); gap: 1.2rem; margin-bottom: 1.7rem; }
+  .publications-page h2.pub-year-title { margin: 0; border: 0; padding-top: 0.15rem; color: #137481; font-size: 1.15rem; font-weight: 600; line-height: 1.5; letter-spacing: -0.03em; }
+  .publications-page ul.pub-list { margin: 0; padding: 0; list-style: none; min-width: 0; }
+  .publications-page li.pub-entry { margin: 0; padding: 0 0 1.25rem; list-style: none; }
+  .publications-page li.pub-entry + li.pub-entry { padding-top: 1.25rem; border-top: 1px solid #e4ebee; }
+  .publications-page h3.pub-title { margin: 0; font-size: 1.02rem; line-height: 1.5; font-weight: 600; letter-spacing: -0.015em; overflow-wrap: anywhere; }
+  .publications-page .pub-title a { color: #243f50; text-decoration: none; }
+  .publications-page .pub-title a:hover { color: #087480; text-decoration: underline; text-underline-offset: 3px; }
+  .publications-page p.pub-authors { margin: 0.4rem 0 0; font-size: 0.88rem; color: #576c79; line-height: 1.55; }
+  .publications-page .pub-authors strong { color: #2c4654; font-weight: 600; }
+  .publications-page p.pub-venue { margin: 0.2rem 0 0; font-size: 0.86rem; color: #536b78; line-height: 1.6; }
+  .publications-page .pub-kind { display: inline-block; margin-left: 0.5rem; padding: 0.05rem 0.4rem; border: 1px solid #d5e2e7; border-radius: 4px; font-size: 0.7rem; font-style: normal; color: #4c6977; vertical-align: baseline; }
+  .publications-page a:focus-visible { outline: 3px solid #37a1af; outline-offset: 4px; }
+  @media (max-width: 600px) { .publications-page .pub-intro { padding: 1rem; }.publications-page .pub-year { grid-template-columns: 1fr; gap: 0.7rem; }.publications-page h2.pub-year-title { border-bottom: 2px solid #d7e8ec; padding-bottom: 0.45rem; }.publications-page h3.pub-title { font-size: 1rem; } }
+</style>
+<section class="publications-page" aria-label="Publications from Google Scholar">
+  <div class="pub-intro">
+    <div>
+      <span class="pub-total">{{ scholar.publications | size }} publications</span>
+      <span class="pub-sync">From Google Scholar · Checked {{ scholar.checked_on | date: "%d %b %Y" }} · Daily automatic checks</span>
+    </div>
+    <a class="pub-scholar" href="{{ scholar.profile_url | escape }}">Google Scholar <span aria-hidden="true">↗</span></a>
+  </div>
+  {% assign years = scholar.publications | group_by: "year" %}
+  {% for group in years %}
+    <section class="pub-year" aria-labelledby="publications-{{ group.name }}">
+      <h2 class="pub-year-title" id="publications-{{ group.name }}">{% if group.name == "0" or group.name == 0 %}Undated{% else %}{{ group.name }}{% endif %}</h2>
+      <ul class="pub-list">
+      {% for publication in group.items %}
+        <li class="pub-entry">
+          <h3 class="pub-title"><a href="{{ publication.scholar_url | escape }}">{{ publication.title | escape }}</a></h3>
+          <p class="pub-authors">{% assign authors = publication.authors | split: "," %}{% for name in authors %}{% assign author = name | strip %}{% unless forloop.first %}, {% endunless %}{% if author == "Y Wang" or author == "Yuliang Wang" %}<strong>{{ author | escape }}</strong>{% else %}{{ author | escape }}{% endif %}{% endfor %}</p>
+          {% if publication.venue != "" %}<p class="pub-venue"><em>{{ publication.venue | escape }}</em>{% if publication.kind != "" %}<span class="pub-kind">{{ publication.kind | escape }}</span>{% endif %}</p>{% endif %}
+        </li>
+      {% endfor %}
+      </ul>
+    </section>
+  {% endfor %}
+</section>
