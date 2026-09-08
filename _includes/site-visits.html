@@ -1,0 +1,35 @@
+<style>
+  .site-visits { margin: 2rem 0 0; border: 1px solid #dce6ea; border-radius: 16px; background: #fff; color: #243b48; overflow: hidden; }
+  .site-visits * { box-sizing: border-box; }
+  .site-visits .visits-header { display: flex; justify-content: space-between; align-items: flex-start; gap: 1rem; flex-wrap: wrap; padding: 1.5rem 1.5rem 1.1rem; background: linear-gradient(120deg, #edf7f9, #fff); }
+  .site-visits .visits-eyebrow { display: block; margin-bottom: 0.45rem; color: #176b78; font-size: 0.78rem; font-weight: 700; letter-spacing: 0.1em; text-transform: uppercase; }
+  .site-visits h2.visits-heading { margin: 0; padding: 0; border: 0; font-size: 1.3rem; letter-spacing: -0.025em; line-height: 1.4; }
+  .site-visits .visits-since { margin: 0.3rem 0 0; color: #5b7180; font-size: 0.85rem; white-space: nowrap; }
+  .site-visits .visits-map { padding: 0.75rem 1.25rem 1rem; text-align: center; min-height: 120px; }
+  .site-visits .visits-map a { display: block; }
+  .site-visits .visits-map img { display: block; max-width: 100%; height: auto; margin: 0 auto; border: 0; }
+  .site-visits .visits-status { margin: 1rem 0; font-size: 0.9rem; color: #5b7180; }
+  .site-visits .visits-status[hidden] { display: none; }
+  .site-visits .visits-footer { display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 1rem; padding: 1rem 1.5rem; border-top: 1px solid #e1e9ed; }
+  .site-visits .visits-explore { display: inline-flex; align-items: center; gap: 0.6rem; border-radius: 7px; padding: 0.65rem 0.9rem; background: #087480; color: #fff; font-size: 0.85rem; font-weight: 600; text-decoration: none; }
+  .site-visits .visits-explore:hover { background: #065e68; }
+  .site-visits a:focus-visible { outline: 3px solid #37a1af; outline-offset: 4px; }
+  .site-visits .visits-credit { color: #5b7180; font-size: 0.8rem; text-underline-offset: 3px; }
+  .site-visits p.visits-note { margin: 0; padding: 0 1.5rem 1.25rem; color: #5b7180; font-size: 0.8rem; line-height: 1.6; }
+  @media (max-width: 600px) { .site-visits .visits-header, .site-visits .visits-footer { padding: 1.2rem; }.site-visits .visits-map { padding: 0.5rem; }.site-visits p.visits-note { padding: 0 1.2rem 1.2rem; }.site-visits h2.visits-heading { font-size: 1.2rem; } }
+</style>
+<section class="site-visits" data-site-visits aria-labelledby="site-visits-heading">
+  <div class="visits-header">
+    <div><span class="visits-eyebrow">Site statistics</span><h2 class="visits-heading" id="site-visits-heading">Visitors around the world</h2></div>
+    <span class="visits-since">Since 9 Sep 2026</span>
+  </div>
+  <div class="visits-map" data-visits-map>
+    <p class="visits-status" data-visits-status role="status">Loading visitor map…</p>
+  </div>
+  <div class="visits-footer">
+    <a class="visits-explore" href="https://s01.flagcounter.com/gmap/rXB/">Explore map &amp; country counts <span aria-hidden="true">↗</span></a>
+    <a class="visits-credit" href="https://s01.flagcounter.com/more/rXB/">Powered by Flag Counter</a>
+  </div>
+  <p class="visits-note">Includes visits across this website and its live teaching pages. Select a flag on the interactive map to see its visitor count. Locations are approximate; the overview refreshes about every five minutes.</p>
+  <noscript><p class="visits-note">Enable JavaScript to display the map, or follow the link above to view the statistics.</p></noscript>
+</section>
